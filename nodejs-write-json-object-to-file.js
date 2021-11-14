@@ -2,7 +2,7 @@ const fs = require('fs');
 const download = require('image-downloader')
 // const imageDownloader = require('node-image-downloader')
 
-const jsonData = fs.readFileSync('input.json');
+const jsonData = fs.readFileSync('output-1.json');
 const jsonObj = JSON.parse(jsonData);
 
 function getRndInteger(min, max) {

@@ -17,7 +17,7 @@
     "title": "Specification by Example",
     "author": "Gojko Adzic",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
-    "pages": 256,
+    "pages": 169,
     "description": "toto"
   },
   {
@@ -108,7 +108,7 @@
     "title": "MongoDB in Action",
     "author": "Kyle Banker",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker.jpg",
-    "pages": 160,
+    "pages": 100,
     "description": "MongoDB is a document-oriented database that's highly scalable and delivers very high-performance, especially with massive data sets that need to be spread across multiple servers. It blends the things you expect with any database   like indexing, querying, and high availability   with powerful new features like easy horizontal scaling (\"auto-sharding\"), map/reduce aggregation, and a flexible document data model to support dynamic schemas.    MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.    Along the way, all of MongoDB's major features are covered, including:        * Indexes and explain plans for efficient queries      * Atomic operations for managing simple data structures and manipulating complex, rich documents      * GridFS for storing and managing large binary objects (images, videos, etc.) in MongoDB      * Map-reduce for custom aggregations and reporting      * Master-slave replication and replica sets for automated failover      * Auto-sharding for automated horizontal scaling    The handy reference section on schema design patterns will help ease the transition from the relational data model of SQL to MongoDB's document-based data model. The numerous, detailed examples are implemented in Ruby and include comprehensive explanations.    MongoDB has been gaining traction in the developer community for its speed, flexibility, scalability, and ease of use. With production deployments that include SourceForge, Foursquare, and Shutterfly, MongoDB is proving to be a robust and reliable database system that keeps developers happy. Covering everything from installation to application design to deployment, MongoDB In Action is written for the application developer who wants to take advantage of MongoDB and get up and running quickly."
   },
   {
@@ -444,7 +444,7 @@
     "title": "SOA Governance in Action",
     "author": "Jos Dirksen",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dirksen.jpg",
-    "pages": 117,
+    "pages": 136,
     "description": "toto"
   },
   {
@@ -479,84 +479,84 @@
     "title": "Managing Components with Modeler",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal11.jpg",
-    "pages": 160,
+    "pages": 121,
     "description": "toto"
   },
   {
     "title": "Command-line Processing with CLI",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal12.jpg",
-    "pages": 160,
+    "pages": 175,
     "description": "toto"
   },
   {
     "title": "Understanding and Using Chain",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal13.jpg",
-    "pages": 198,
+    "pages": 284,
     "description": "toto"
   },
   {
     "title": "Working with the Logging and Discovery Components",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal14.jpg",
-    "pages": 337,
+    "pages": 114,
     "description": "toto"
   },
   {
     "title": "Uploading files with FileUpload",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal2.jpg",
-    "pages": 171,
+    "pages": 274,
     "description": "toto"
   },
   {
     "title": "Handling Protocols with the Net Component",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal3.jpg",
-    "pages": 279,
+    "pages": 267,
     "description": "toto"
   },
   {
     "title": "XML Parsing with Digester",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal4.jpg",
-    "pages": 122,
+    "pages": 128,
     "description": "toto"
   },
   {
     "title": "JXPath and Betwixt: Working with XML",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal5.jpg",
-    "pages": 217,
+    "pages": 269,
     "description": "toto"
   },
   {
     "title": "Validating Data with Validator",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal6.jpg",
-    "pages": 138,
+    "pages": 333,
     "description": "toto"
   },
   {
     "title": "Enhancing Java Core Libraries with Collections",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal7.jpg",
-    "pages": 250,
+    "pages": 279,
     "description": "toto"
   },
   {
     "title": "Enhancing Java Core Libraries with BeanUtils and Lang",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal8.jpg",
-    "pages": 167,
+    "pages": 327,
     "description": "toto"
   },
   {
     "title": "Pool and DBCP: Creating and Using Object Pools",
     "author": "Vikram Goyal",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal9.jpg",
-    "pages": 329,
+    "pages": 144,
     "description": "toto"
   },
   {
@@ -675,7 +675,7 @@
     "title": "Metaprogramming in .NET",
     "author": "Kevin Hazzard",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazzard.jpg",
-    "pages": 190,
+    "pages": 169,
     "description": "toto"
   },
   {
@@ -703,7 +703,7 @@
     "title": "Agile ALM",
     "author": "Michael Hüttermann",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/huettermann.jpg",
-    "pages": 195,
+    "pages": 166,
     "description": "Many software projects fail unnecessarily because of unclear objectives, redundant and unproductive work, cost overruns, and a host of other avoidable process problems. In response, agile processes and lightweight tooling have begun to replace traditional engineering processes throughout the development lifecycle. An agile approach to application lifecycle management improves product quality, reduces time to market, and makes for happier developers.    Agile ALM is a guide for Java developers who want to integrate flexible agile practices and lightweight tooling along all phases of the software development process. The book introduces a new vision for managing change in requirements and process more efficiently and flexibly. You'll learn powerful practices like task-based Development, where you align activities into tasks resulting in traceable artifacts, Continuous Integration, in which you frequently and systematically integrate, build, and test an application in development and using Scrum as an agile approach to release management. The effect is a more comprehensive and practical approach to build, configuration, deployment, release, test, quality, integration, and requirements management.    This book synthesizes technical and functional elements to provide a comprehensive approach to software development. You'll learn to see the whole scope of the development process as a set of defined tasks, many of which are repeated daily, and then master the tools and practices you need to accomplish each of those tasks efficiently.    Because efficient tool chains can radically improve the speed and fluidity of the development process, this book demonstrates how to integrate state-of-the-art lightweight tools. Many of the tools and examples are Java-based, but the Agile ALM principles apply to all development platforms. As well, the many examples show how you can bridge different languages and systems."
   },
   {
@@ -773,7 +773,7 @@
     "title": "Learn Windows PowerShell in a Month of Lunches",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones.jpg",
-    "pages": 199,
+    "pages": 160,
     "description": "In Windows, there's a control panel, dialog box, administrative console, API, or wizard to manage every component of your system. There are    thousands    of them   so many that it can be nearly impossible to keep track of all the locations and settings you need to administer Windows effectively. For administrators, PowerShell is a godsend because it provides a single, unified command line from which you can control and automate every aspect of Windows. PowerShell finally enables Windows administrators to work in a way that Unix and Linux administrators have leveraged for decades.    Like classic administrative shells, PowerShell accepts and immediately executes typed commands. In addition, it has all the features of a full-fledged programming language built in, so you can create scripts to automate even the most complex tasks. And it's fully aware of all the components of Windows and most Windows servers, so you can use PowerShell to control Exchange, IIS, SharePoint, and other core pieces of your Windows system.    Learn Windows PowerShell in a Month of Lunches is an innovative tutorial designed for busy administrators. Author Don Jones has taught thousands of administrators to use PowerShell, and now he'll teach you, bringing his years of training techniques to a concise, easy-to-follow book. Just set aside one hour a day   lunchtime would be perfect   for an entire month, and you'll be automating administrative tasks faster than you ever thought possible. Don combines his own in-the-trenches experience with years of PowerShell instruction to deliver the most important, effective, and engaging elements of PowerShell to you quickly and painlessly, setting you on the path to a career-boosting future."
   },
   {
@@ -815,7 +815,7 @@
     "title": "Kermit 95+",
     "author": "Kermit Project at Columbia University",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kermit.jpg",
-    "pages": 160,
+    "pages": 266,
     "description": "Kermit 95+, Version 2.1 is a full-featured, fully native, 32-bit communications software package for Microsoft Windows 95/98/NT/2000/XP and IBM OS/2 3.0 and later from the Kermit Project at Columbia University. It works uniformly over a variety of connection methods. Included in the Kermit 95+, Version 2.1 bundle: Internet and modem communications, 40+ terminal emulations, Telnet, SSH, Kerberos, SSL/TLS, Unicode. Plus FTP, Kermit, and Zmodem file transfer, a built-in cross-platform scripting language to automate any communications or file management task, and companion Kermit software for Unix and VMS.    For those already familiar with the package, Version 2.1 adds in-the-box exportable secure authentication and strong encryption including SSH v1/v2, a secure scriptable FTP client, and runs in a GUI window with regular Windows font and size selections."
   },
   {
@@ -864,7 +864,7 @@
     "title": "Making Java Groovy",
     "author": "Kenneth A. Kousen",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kousen.jpg",
-    "pages": 173,
+    "pages": 194,
     "description": "Java is large and powerful, but that size and power carries with it complexity and accumulated inconsistencies. Groovy is an elegant JVM-based dynamic language that gracefully co-exists with Java. It both extends and simplifies Java   and for most Java developers, Groovy is super easy to learn. If you know where to apply it, adding in a little Groovy will make you a better Java developer.    Making Java Groovy is a practical handbook for developers who want to blend Groovy into their day-to-day work with Java. It starts by introducing the key differences between Java and Groovy   and how you can use them to your advantage. Then, it guides you step-by-step through realistic development challenges, from web applications to web services to desktop applications, and shows how Groovy makes them easier to put into production.    This book stays away from theory and drills down on the typical situations you face every day, like consuming and creating SOAP and RESTful web services, working with databases, and using the Spring framework. You'll also explore the great Groovy tools for build processes, testing, and deployment. Finally, you'll learn how Groovy-based domain specific languages simplify Java development."
   },
   {
@@ -976,7 +976,7 @@
     "title": "MacRuby in Action",
     "author": "Brendan G. Lim with Jerry Cheung",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim.jpg",
-    "pages": 149,
+    "pages": 233,
     "description": "toto"
   },
   {
@@ -1116,7 +1116,7 @@
     "title": "Tika in Action",
     "author": "Chris A. Mattmann",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mattmann.jpg",
-    "pages": 264,
+    "pages": 203,
     "description": "toto"
   },
   {
@@ -1277,7 +1277,7 @@
     "title": "EJB 3 in Action, Second Edition",
     "author": "Debu Panda",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/panda2.jpg",
-    "pages": 323,
+    "pages": 226,
     "description": "The EJB 3 framework was a major advancement for Java EE developers, providing a consistent, easy to use model to create and extend applications. EJB 3 incorporates a POJO programming model and Java 5 annotations, along with the Java Persistence API (JPA), a standard for object-relational mapping. EJB 3.1, the latest version, adds full support for Context and Dependency Injection (CDI), the new standard for type-safe dependency injection for Java EE. With EJB 3.1 you create true object-oriented applications that are easy to write, maintain, and extend.    Building on the bestselling first edition, EJB 3 in Action, Second Edition tackles EJB 3.1 head-on, through numerous code samples, real-life scenarios, and illustrations. This book is a fast-paced tutorial for Java EE 6 business component development using EJB 3.1, JPA 2 and CDI. Besides covering the basics of EJB 3.1, this book includes in-depth EJB 3.1 internal implementation details, best practices, design patterns, and performance tuning tips. The book also discusses using open source frameworks like Seam and Spring with EJB 3.1."
   },
   {
@@ -1340,14 +1340,14 @@
     "title": "Generative Art",
     "author": "Matt Pearson",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pearson.jpg",
-    "pages": 109,
+    "pages": 288,
     "description": "toto"
   },
   {
     "title": "Windows Phone 7 in Action",
     "author": "Timothy Binkley-Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/perga.jpg",
-    "pages": 137,
+    "pages": 132,
     "description": "Windows Phone 7 is a major shift in the way Microsoft developers design, develop, and sell mobile apps. By leveraging a trio of established technologies-Silverlight, XNA, and C#   developers can blend what they already know about Windows development with the new opportunities and challenges presented by a mobile platform. And with exciting new Windows Phone devices rolling out now, the demand for WP7 apps is just starting to build.    Windows Phone 7 in Action is a hands-on guide to building mobile applications for WP7 using Silverlight, C#, and XNA. Written for developers who already know their way around Visual Studio, this book zips through the basics, such as writing code to dial the phone, writing emails, and sending text messages, and moves on to the nuts and bolts of building great phone apps. By working through the numerous examples and tutorials, you'll master the APIs used to work with a phone's sensors and hardware, such as the accelerometer, camera, touch screen, GPS, and microphone. You'll also tackle web services and applications that use location and push notification services.    Along the way, you'll discover why Microsoft opted for Silverlight and XNA as the core technologies for WP7. As with Silverlight for the desktop, you can create stunning visual effects using C#. Silverlight for Windows Phone has been enriched with navigation services, a new execution model to better satisfy mobile requirements, and hooks for embedding a browser, playing media files, running cool animations, and more.    The XNA Framework provides libraries to handle 3D graphics, audio, and touch input. Because games are a key target of mobile app development, by the end of the book you will be able to write your own XNA game, utilizing the unique input abilities of the phone. You also learn how to tune your game code to get the best performance while running in the phone's constrained environment."
   },
   {
@@ -1403,7 +1403,7 @@
     "title": "Activiti in Action",
     "author": "Tijs Rademakers",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rademakers2.jpg",
-    "pages": 187,
+    "pages": 300,
     "description": "toto"
   },
   {
@@ -1438,7 +1438,7 @@
     "title": "Scala in Action",
     "author": "Nilanjan Raychaudhuri",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/raychaudhuri.jpg",
-    "pages": 233,
+    "pages": 139,
     "description": "toto"
   },
   {
@@ -1473,7 +1473,7 @@
     "title": "Swing",
     "author": "Matthew Robinson",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 259,
+    "pages": 109,
     "description": "toto"
   },
   {
@@ -1543,7 +1543,7 @@
     "title": "OpenCL in Action",
     "author": "Matthew Scarpino",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scarpino2.jpg",
-    "pages": 152,
+    "pages": 170,
     "description": "toto"
   },
   {
@@ -1606,7 +1606,7 @@
     "title": "PowerShell and WMI",
     "author": "Richard Siddaway",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway2.jpg",
-    "pages": 199,
+    "pages": 241,
     "description": "toto"
   },
   {
@@ -1676,7 +1676,7 @@
     "title": "Scala in Depth",
     "author": "Joshua D. Suereth",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth.jpg",
-    "pages": 296,
+    "pages": 217,
     "description": "Scala is a unique and powerful new programming language for the JVM. Blending the strengths of the Functional and Imperative programming models, Scala is a great tool for building highly concurrent applications without sacrificing the benefits of an OO approach. While information about the Scala language is abundant, skilled practitioners, great examples, and insight into the best practices of the community are harder to find. Scala in Depth bridges that gap, preparing you to adopt Scala successfully for real world projects.    Scala in Depth is a unique new book designed to help you integrate Scala effectively into your development process. By presenting the emerging best practices and designs from the Scala community, it guides you though dozens of powerful techniques example by example. There's no heavy-handed theory here-just lots of crisp, practical guides for coding in Scala.    For example:        * Discover the \"sweet spots\" where object-oriented and functional programming intersect.      * Master advanced OO features of Scala, including type member inheritance, multiple inheritance and composition.      * Employ functional programming concepts like tail recursion, immutability, and monadic operations.      * Learn good Scala style to keep your code concise, expressive and readable.    As you dig into the book, you'll start to appreciate what makes Scala really shine. For instance, the Scala type system is very, very powerful; this book provides use case approaches to manipulating the type system and covers how to use type constraints to enforce design constraints. Java developers love Scala's deep integration with Java and the JVM Ecosystem, and this book shows you how to leverage it effectively and work around the rough spots."
   },
   {
@@ -1697,7 +1697,7 @@
     "title": "GWT in Action, Second Edition",
     "author": "Adam Tacy",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/tacy.jpg",
-    "pages": 347,
+    "pages": 191,
     "description": "toto"
   },
   {
@@ -1725,7 +1725,7 @@
     "title": "Spring Batch in Action",
     "author": "Arnaud Cogoluegnes",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier.jpg",
-    "pages": 176,
+    "pages": 214,
     "description": "toto"
   },
   {
@@ -1767,7 +1767,7 @@
     "title": "RabbitMQ in Action",
     "author": "Alvaro Videla",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/videla.jpg",
-    "pages": 280,
+    "pages": 192,
     "description": "toto"
   },
   {
@@ -1794,7 +1794,7 @@
   {
     "title": "Spring in Action, Third Edition",
     "author": "Craig Walls",
-    "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wall4.jpg",
+    "thumbnail": "https://via.placeholder.com/150x200.jpg",
     "pages": 424,
     "description": "A few years back, Spring arrived as is a fresh breeze blowing over the Java landscape. Based on the principles of dependency injection, interface-oriented design, and aspect-oriented programming, Spring combines enterprise application power with the simplicity of plain-old Java objects (POJOs). Now, Spring has grown into a full suite of technologies, including dedicated projects for integration, OSGI-based development, and more.    Spring in Action, Third Edition has been completely revised to reflect the latest features, tools, practices Spring offers to java developers. It begins by introducing the core concepts of Spring and then quickly launches into a hands-on exploration of the framework. Combining short code snippets and an ongoing example developed throughout the book, it shows you how to build simple and efficient J2EE applications.    Inside, you'll see how to:    Solve persistence problems  Handle asynchronous messaging  Create and consume remote services  Build web applications  Integrate with most popular web frameworks  In short, you'll learn how to use Spring to write simpler, easier to maintain code so that you can focus on what really matters   your critical business needs.    The revised Third Edition explores the core Spring Framework issues, as well as the latest updates to other Spring portfolio projects such as Spring WebFlow and Spring Security. The result is a book that's both broader and deeper than previous editions. You'll learn the full range of new features available with Spring 3, including:    More annotation-oriented options to reduce the amount of XML configuration  Full-featured support for REST  A new Spring Expression Language (SpEL) that makes short work of wiring complex values.  Examples that illustrate the current best practices developed in the Spring community.  This book assumes that you know your way around Java, but no previous experience with Spring is required."
   },
@@ -1865,21 +1865,21 @@
     "title": "Enterprise OSGi In Action",
     "author": "Holly Cummins",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cummins.jpg",
-    "pages": 230,
+    "pages": 104,
     "description": "toto"
   },
   {
     "title": "Ext JS in Action, Second Edition",
     "author": "Jesus Garcia",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garcia3.jpg",
-    "pages": 336,
+    "pages": 118,
     "description": "toto"
   },
   {
     "title": "Android in Action, Third Edition",
     "author": "W. Frank Ableson",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson3.jpg",
-    "pages": 258,
+    "pages": 122,
     "description": "toto"
   },
   {
@@ -1900,77 +1900,77 @@
     "title": "Third-Party JavaScript ",
     "author": "Ben Vinegar",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vinegar.jpg",
-    "pages": 242,
+    "pages": 317,
     "description": "toto"
   },
   {
     "title": "Multimedia Computing",
     "author": "Matthew E. Hodges",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 249,
+    "pages": 258,
     "description": "toto"
   },
   {
     "title": "Web Development with JavaServer Pages",
     "author": "Duane K. Fields",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 119,
+    "pages": 344,
     "description": "toto"
   },
   {
     "title": "Up to Speed with Swing",
     "author": "Steven J. Gutz",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 232,
+    "pages": 230,
     "description": "toto"
   },
   {
     "title": "Manager's Guide to Open Source",
     "author": "Maria Winslow",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 109,
+    "pages": 214,
     "description": "toto"
   },
   {
     "title": "Programming Web Services with Java",
     "author": "Ajamu A. Wesley",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 100,
+    "pages": 288,
     "description": "toto"
   },
   {
     "title": "TCP/IP Programming for OS/2",
     "author": "Steven J. Gutz",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 219,
+    "pages": 341,
     "description": "toto"
   },
   {
     "title": "SCWCD Exam Study Kit",
     "author": "Hanumant Deshmukh",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 317,
+    "pages": 311,
     "description": "toto"
   },
   {
     "title": "Unit Testing in C++",
     "author": "Bruce Trask",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 113,
+    "pages": 303,
     "description": "toto"
   },
   {
     "title": "Big Data",
     "author": "Nathan Marz",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/marz.jpg",
-    "pages": 223,
+    "pages": 303,
     "description": "toto"
   },
   {
     "title": "CoffeeScript in Action",
     "author": "Patrick Lee",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lee.jpg",
-    "pages": 253,
+    "pages": 101,
     "description": "toto"
   },
   {
@@ -1991,749 +1991,749 @@
     "title": "Java Persistence with Hibernate, Second Edition",
     "author": "Christian Bauer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bauer3.jpg",
-    "pages": 124,
+    "pages": 120,
     "description": "toto"
   },
   {
     "title": "Hadoop in Practice",
     "author": "Alex Holmes",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes.jpg",
-    "pages": 347,
+    "pages": 100,
     "description": "toto"
   },
   {
     "title": "HBase in Action",
     "author": "Nicholas Dimiduk",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dimidukkhurana.jpg",
-    "pages": 154,
+    "pages": 323,
     "description": "toto"
   },
   {
     "title": "Flex Mobile in Action",
     "author": "Jonathan Campos",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/campos.jpg",
-    "pages": 225,
+    "pages": 171,
     "description": "toto"
   },
   {
     "title": "HTML5 for .NET Developers",
     "author": "Jim Jackson",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jackson.jpg",
-    "pages": 264,
+    "pages": 135,
     "description": "toto"
   },
   {
     "title": "50 Android Hacks",
     "author": "Carlos M. Sessa",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sessa.jpg",
-    "pages": 106,
+    "pages": 254,
     "description": "toto"
   },
   {
     "title": "PowerShell in Depth",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones2.jpg",
-    "pages": 343,
+    "pages": 108,
     "description": "toto"
   },
   {
     "title": "Augmented Reality Revealed",
     "author": "Robert A. Rice Jr.",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 300,
+    "pages": 160,
     "description": "toto"
   },
   {
     "title": "Building Well-Structured JavaScript Applications",
     "author": "Julio C. Ody",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 245,
+    "pages": 241,
     "description": "toto"
   },
   {
     "title": "Linked Data",
     "author": "David Wood",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dwood.jpg",
-    "pages": 341,
+    "pages": 289,
     "description": "toto"
   },
   {
     "title": "Mule in Action, Second Edition",
     "author": "David Dossot",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dossot2.jpg",
-    "pages": 242,
+    "pages": 315,
     "description": "toto"
   },
   {
     "title": "Single Page Web Applications",
     "author": "Michael S. Mikowski",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mikowski.jpg",
-    "pages": 107,
+    "pages": 231,
     "description": "toto"
   },
   {
     "title": "The Art of Unit Testing, Second Edition",
     "author": "Roy Osherove",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/osherove2.jpg",
-    "pages": 326,
+    "pages": 344,
     "description": "toto"
   },
   {
     "title": "Play for Java",
     "author": "Nicolas Leroux",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/leroux.jpg",
-    "pages": 247,
+    "pages": 298,
     "description": "toto"
   },
   {
     "title": "Hello World! Second Edition",
     "author": "Warren Sande",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande2.jpg",
-    "pages": 212,
+    "pages": 325,
     "description": "toto"
   },
   {
     "title": "Dart in Action",
     "author": "Chris Buckett",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett.jpg",
-    "pages": 326,
+    "pages": 189,
     "description": "toto"
   },
   {
     "title": "Redis in Action",
     "author": "Josiah Carlson",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carlson.jpg",
-    "pages": 323,
+    "pages": 239,
     "description": "toto"
   },
   {
     "title": "Using the TI-83 Plus/TI-84 Plus",
     "author": "Christopher R. Mitchell",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell2.jpg",
-    "pages": 157,
+    "pages": 345,
     "description": "toto"
   },
   {
     "title": "Neo4j in Action",
     "author": "Jonas Partner",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/partner.jpg",
-    "pages": 342,
+    "pages": 128,
     "description": "toto"
   },
   {
     "title": "Programming the TI-83 Plus/TI-84 Plus",
     "author": "Christopher R. Mitchell",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell.jpg",
-    "pages": 137,
+    "pages": 227,
     "description": "toto"
   },
   {
     "title": "Functional Programming in Scala",
     "author": "Paul Chiusano",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bjarnason.jpg",
-    "pages": 199,
+    "pages": 323,
     "description": "toto"
   },
   {
     "title": "Play for Scala",
     "author": "Peter Hilton",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hilton.jpg",
-    "pages": 196,
+    "pages": 276,
     "description": "toto"
   },
   {
     "title": "Node.js in Practice",
     "author": "Alex Young",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier2.jpg",
-    "pages": 133,
+    "pages": 152,
     "description": "toto"
   },
   {
     "title": "SonarQube in Action",
     "author": "G. Ann Campbell",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/papapetrou.jpg",
-    "pages": 147,
+    "pages": 230,
     "description": "toto"
   },
   {
     "title": "Windows Store App Development: C# and XAML",
     "author": "Peter M. Brown",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown3.jpg",
-    "pages": 250,
+    "pages": 231,
     "description": "toto"
   },
   {
     "title": "Learn Windows IIS in a Month of Lunches",
     "author": "Jason C. Helmick",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/helmick.jpg",
-    "pages": 164,
+    "pages": 276,
     "description": "toto"
   },
   {
     "title": "Mondrian in Action",
     "author": "William Back",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/back.jpg",
-    "pages": 307,
+    "pages": 200,
     "description": "toto"
   },
   {
     "title": "RabbitMQ in Depth",
     "author": "Gavin M. Roy",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roy.jpg",
-    "pages": 170,
+    "pages": 183,
     "description": "toto"
   },
   {
     "title": "Akka in Action",
     "author": "Raymond Roestenburg",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roestenburg.jpg",
-    "pages": 273,
+    "pages": 255,
     "description": "toto"
   },
   {
     "title": "Extending jQuery",
     "author": "Keith B. Wood",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wood.jpg",
-    "pages": 331,
+    "pages": 276,
     "description": "toto"
   },
   {
     "title": "OCA Java SE 7 Programmer I Certification Guide",
     "author": "Mala Gupta",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta.jpg",
-    "pages": 344,
+    "pages": 253,
     "description": "toto"
   },
   {
     "title": "Kanban in Action",
     "author": "Marcus Hammarberg",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hammarberg.jpg",
-    "pages": 119,
+    "pages": 150,
     "description": "toto"
   },
   {
     "title": "Solr in Action",
     "author": "Trey Grainger",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/grainger.jpg",
-    "pages": 157,
+    "pages": 320,
     "description": "toto"
   },
   {
     "title": "Making Sense of NoSQL",
     "author": "Daniel G. McCreary",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mccreary.jpg",
-    "pages": 268,
+    "pages": 181,
     "description": "toto"
   },
   {
     "title": "Jaguar Development with PowerBuilder 7",
     "author": "MIchael Barlotta",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 313,
+    "pages": 322,
     "description": "toto"
   },
   {
     "title": "Grails in Action, Second Edition",
     "author": "Glen Smith",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith2.jpg",
-    "pages": 234,
+    "pages": 301,
     "description": "toto"
   },
   {
     "title": "Rails 4 in Action",
     "author": "Ryan Bigg",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bigg2.jpg",
-    "pages": 224,
+    "pages": 337,
     "description": "toto"
   },
   {
     "title": "Learn Windows PowerShell in a Month of Lunches, Second Edition",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones3.jpg",
-    "pages": 124,
+    "pages": 254,
     "description": "toto"
   },
   {
     "title": "AOP in .NET",
     "author": "Matthew D. Groves",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/groves.jpg",
-    "pages": 181,
+    "pages": 118,
     "description": "toto"
   },
   {
     "title": "Learn PowerShell Toolmaking in a Month of Lunches",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones4.jpg",
-    "pages": 228,
+    "pages": 349,
     "description": "toto"
   },
   {
     "title": "CMIS and Apache Chemistry in Action",
     "author": "Florian Müller",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mueller.jpg",
-    "pages": 289,
+    "pages": 130,
     "description": "toto"
   },
   {
     "title": "Action Guide (aka VB .NET)",
     "author": "Paul Messick",
     "thumbnail": "https://via.placeholder.com/150x200.jpg",
-    "pages": 220,
+    "pages": 190,
     "description": "toto"
   },
   {
     "title": "Learn Active Directory Management in a Month of Lunches",
     "author": "Richard Siddaway",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway3.jpg",
-    "pages": 265,
+    "pages": 219,
     "description": "toto"
   },
   {
     "title": "Spring in Action, Fourth Edition",
     "author": "Craig Walls",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls5.jpg",
-    "pages": 227,
+    "pages": 222,
     "description": "toto"
   },
   {
     "title": "The Mikado Method",
     "author": "Ola Ellnestam",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ellnestam.jpg",
-    "pages": 192,
+    "pages": 271,
     "description": "toto"
   },
   {
     "title": "The Responsive Web",
     "author": "Matthew Carver",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carver.jpg",
-    "pages": 174,
+    "pages": 313,
     "description": "toto"
   },
   {
     "title": "Fast ASP.NET Websites",
     "author": "Dean Alan Hume",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hume.jpg",
-    "pages": 344,
+    "pages": 128,
     "description": "toto"
   },
   {
     "title": "SBT in Action",
     "author": "Joshua Suereth",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth2.jpg",
-    "pages": 124,
+    "pages": 191,
     "description": "toto"
   },
   {
     "title": "PowerShell Deep Dives",
     "author": "Edited by Jeffery Hicks",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hicks.jpg",
-    "pages": 229,
+    "pages": 185,
     "description": "toto"
   },
   {
     "title": "Gradle in Action",
     "author": "Benjamin Muschko",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/muschko.jpg",
-    "pages": 129,
+    "pages": 110,
     "description": "toto"
   },
   {
     "title": "Scalatra in Action",
     "author": "Ivan Porto Carrero",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carrero2.jpg",
-    "pages": 148,
+    "pages": 261,
     "description": "toto"
   },
   {
     "title": "AngularJS in Action",
     "author": "Brian Ford",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bford.jpg",
-    "pages": 103,
+    "pages": 241,
     "description": "toto"
   },
   {
     "title": "Software Development Metrics",
     "author": "David Nicolette",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nicolette.jpg",
-    "pages": 226,
+    "pages": 292,
     "description": "toto"
   },
   {
     "title": "F# Deep Dives",
     "author": "Tomas Petricek",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek_trelford.jpg",
-    "pages": 172,
+    "pages": 197,
     "description": "toto"
   },
   {
     "title": "C# in Depth, Third Edition",
     "author": "Jon Skeet",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet3.jpg",
-    "pages": 146,
+    "pages": 101,
     "description": "toto"
   },
   {
     "title": "PostGIS in Action, Second Edition",
     "author": "Regina Obe",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/obe2.jpg",
-    "pages": 332,
+    "pages": 234,
     "description": "toto"
   },
   {
     "title": "R in Action, Second Edition",
     "author": "Robert Kabacoff",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kabacoff2.jpg",
-    "pages": 210,
+    "pages": 336,
     "description": "toto"
   },
   {
     "title": "The Joy of Clojure, Second Edition",
     "author": "Michael Fogus",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fogus2.jpg",
-    "pages": 103,
+    "pages": 186,
     "description": "toto"
   },
   {
     "title": "iOS 7 in Action",
     "author": "Brendan G. Lim",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim2.jpg",
-    "pages": 318,
+    "pages": 290,
     "description": "toto"
   },
   {
     "title": "Hello App Inventor!",
     "author": "Paula Beer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/beer.jpg",
-    "pages": 331,
+    "pages": 106,
     "description": "toto"
   },
   {
     "title": "Ember.js in Action",
     "author": "Joachim Haagen Skeie",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeie.jpg",
-    "pages": 320,
+    "pages": 282,
     "description": "toto"
   },
   {
     "title": "Netty in Action",
     "author": "Norman Maurer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/maurer.jpg",
-    "pages": 310,
+    "pages": 265,
     "description": "toto"
   },
   {
     "title": "RavenDB in Action",
     "author": "Itamar Syn-Hershko",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/syn-hershko.jpg",
-    "pages": 268,
+    "pages": 228,
     "description": "toto"
   },
   {
     "title": "OCP Java SE 7 Programmer II Certification Guide",
     "author": "Mala Gupta",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta2.jpg",
-    "pages": 165,
+    "pages": 187,
     "description": "toto"
   },
   {
     "title": "Backbone.js in Action",
     "author": "Samuel M. Breed",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/breed.jpg",
-    "pages": 310,
+    "pages": 143,
     "description": "toto"
   },
   {
     "title": "Clojure in Action, Second Edition",
     "author": "Amit Rathore",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore2.jpg",
-    "pages": 215,
+    "pages": 309,
     "description": "toto"
   },
   {
     "title": "Practical Data Science with R",
     "author": "Nina Zumel",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/zumel.jpg",
-    "pages": 218,
+    "pages": 138,
     "description": "toto"
   },
   {
     "title": "ArcGIS Web Development",
     "author": "Rene Rubalcava",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rubalcava.jpg",
-    "pages": 116,
+    "pages": 226,
     "description": "toto"
   },
   {
     "title": "Elasticsearch in Action",
     "author": "Radu Gheorghe",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hinman.jpg",
-    "pages": 337,
+    "pages": 308,
     "description": "toto"
   },
   {
     "title": "Learn SCCM 2012 in a Month of Lunches",
     "author": "James Bannan",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bannan.jpg",
-    "pages": 122,
+    "pages": 146,
     "description": "toto"
   },
   {
     "title": "Programming for Musicians and Digital Artists",
     "author": "Ajay Kapur",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kapur.jpg",
-    "pages": 303,
+    "pages": 246,
     "description": "toto"
   },
   {
     "title": "BDD in Action",
     "author": "John F. Smart",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smart.jpg",
-    "pages": 172,
+    "pages": 331,
     "description": "toto"
   },
   {
     "title": "Windows Phone 8 in Action",
     "author": "Timothy Binkley-Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/binkley.jpg",
-    "pages": 258,
+    "pages": 301,
     "description": "toto"
   },
   {
     "title": "Titanium Alloy in Action",
     "author": "Ricardo Alcocer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alcocer.jpg",
-    "pages": 321,
+    "pages": 331,
     "description": "toto"
   },
   {
     "title": "Giraph in Action",
     "author": "Claudio Martella",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/martella.jpg",
-    "pages": 333,
+    "pages": 322,
     "description": "toto"
   },
   {
     "title": "The Well-Grounded Rubyist, Second Edition",
     "author": "David A. Black",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black3.jpg",
-    "pages": 339,
+    "pages": 108,
     "description": "toto"
   },
   {
     "title": "Go in Action",
     "author": "Brian Ketelsen",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ketelsen.jpg",
-    "pages": 185,
+    "pages": 302,
     "description": "toto"
   },
   {
     "title": "The Programmer's Guide to Apache Thrift ",
     "author": "Randy Abernethy",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/abernethy.jpg",
-    "pages": 219,
+    "pages": 165,
     "description": "toto"
   },
   {
     "title": "Grokking Functional Programming",
     "author": "Aslam Khan",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/khan.jpg",
-    "pages": 160,
+    "pages": 348,
     "description": "toto"
   },
   {
     "title": "CORS in Action",
     "author": "Monsur Hossain",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hossain.jpg",
-    "pages": 205,
+    "pages": 126,
     "description": "toto"
   },
   {
     "title": "Reactive Design Patterns",
     "author": "Roland Kuhn",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kuhn.jpg",
-    "pages": 207,
+    "pages": 164,
     "description": "toto"
   },
   {
     "title": "Storm Applied",
     "author": "Sean Allen",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pathirana.jpg",
-    "pages": 166,
+    "pages": 230,
     "description": "toto"
   },
   {
     "title": "Real-World Machine Learning",
     "author": "Henrik Brink",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brink.jpg",
-    "pages": 216,
+    "pages": 259,
     "description": "toto"
   },
   {
     "title": "jQuery UI in Action",
     "author": "Theodore J. (T.J.) VanToll III",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vantoll.jpg",
-    "pages": 306,
+    "pages": 344,
     "description": "toto"
   },
   {
     "title": "Web Components in Action",
     "author": "Chris Buckett",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett2.jpg",
-    "pages": 180,
+    "pages": 116,
     "description": "toto"
   },
   {
     "title": "JavaScript Application Design",
     "author": "Nicolas G. Bevacqua",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bevacqua.jpg",
-    "pages": 289,
+    "pages": 115,
     "description": "toto"
   },
   {
     "title": "Git in Practice",
     "author": "Mike McQuaid",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcquaid.jpg",
-    "pages": 131,
+    "pages": 129,
     "description": "toto"
   },
   {
     "title": "Impala in Action",
     "author": "Richard L. Saltzer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/saltzer.jpg",
-    "pages": 155,
+    "pages": 166,
     "description": "toto"
   },
   {
     "title": "Java 8 in Action",
     "author": "Raoul-Gabriel Urma",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/urma.jpg",
-    "pages": 106,
+    "pages": 217,
     "description": "toto"
   },
   {
     "title": "Elixir in Action",
     "author": "Saša Juric´",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/juric.jpg",
-    "pages": 214,
+    "pages": 297,
     "description": "toto"
   },
   {
     "title": "MongoDB in Action, Second Edition",
     "author": "Kyle Banker",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker2.jpg",
-    "pages": 121,
+    "pages": 100,
     "description": "toto"
   },
   {
     "title": "Getting MEAN with Mongo, Express, Angular, and Node",
     "author": "Simon Holmes",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sholmes.jpg",
-    "pages": 298,
+    "pages": 306,
     "description": "toto"
   },
   {
     "title": "jQuery in Action, Third Edition",
     "author": "Bear Bibeault",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/derosa.jpg",
-    "pages": 287,
+    "pages": 113,
     "description": "toto"
   },
   {
     "title": "D3.js in Action",
     "author": "Elijah Meeks",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/meeks.jpg",
-    "pages": 280,
+    "pages": 135,
     "description": "toto"
   },
   {
     "title": "Learn SQL Server Administration in a Month of Lunches",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones5.jpg",
-    "pages": 181,
+    "pages": 347,
     "description": "toto"
   },
   {
     "title": "Geoprocessing with Python",
     "author": "Chris Garrard",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garrard.jpg",
-    "pages": 128,
+    "pages": 174,
     "description": "toto"
   },
   {
     "title": "Barcodes with iOS",
     "author": "Oliver Drobnik",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drobnik.jpg",
-    "pages": 294,
+    "pages": 306,
     "description": "toto"
   },
   {
     "title": "Chef in Action",
     "author": "Dimitri Aivaliotis",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/aivaliotis.jpg",
-    "pages": 336,
+    "pages": 196,
     "description": "toto"
   },
   {
     "title": "Hadoop in Practice, Second Edition",
     "author": "Alex Holmes",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes2.jpg",
-    "pages": 342,
+    "pages": 333,
     "description": "toto"
   },
   {
     "title": "Oculus Rift in Action",
     "author": "Bradley Austin Davis",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bdavis.jpg",
-    "pages": 153,
+    "pages": 124,
     "description": "toto"
   },
   {
     "title": "OpenStack in Action",
     "author": "Cody Bumgardner",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bumgardner.jpg",
-    "pages": 214,
+    "pages": 236,
     "description": "toto"
   },
   {
     "title": "PowerShell in Depth, Second Edition",
     "author": "Don Jones",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones6.jpg",
-    "pages": 146,
+    "pages": 313,
     "description": "toto"
   },
   {
     "title": "Practical Probabilistic Programming",
     "author": "Avi Pfeffer",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pfeffer.jpg",
-    "pages": 123,
+    "pages": 206,
     "description": "toto"
   },
   {
     "title": "Unity in Action",
     "author": "Joseph Hocking",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hocking.jpg",
-    "pages": 130,
+    "pages": 122,
     "description": "toto"
   },
   {
     "title": "Express.js in Action",
     "author": "Evan M. Hahn",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hahn.jpg",
-    "pages": 198,
+    "pages": 124,
     "description": "toto"
   },
   {
     "title": "Learn Git in a Month of Lunches",
     "author": "Rick Umali",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/umali.jpg",
-    "pages": 322,
+    "pages": 110,
     "description": "toto"
   },
   {
     "title": "Understanding SPAs",
     "author": "Emmit A. Scott",
     "thumbnail": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scott2.jpg",
-    "pages": 233,
+    "pages": 303,
     "description": "toto"
   }
 ]
