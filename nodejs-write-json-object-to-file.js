@@ -1,8 +1,6 @@
 const fs = require('fs');
-const axios = require('axios');
-const XMLHttpRequest = require('xhr2');
-const request = require('request');
 const download = require('image-downloader')
+// const imageDownloader = require('node-image-downloader')
 
 const jsonData = fs.readFileSync('input.json');
 const jsonObj = JSON.parse(jsonData);
@@ -20,6 +18,7 @@ for (const i in jsonObj) {
 	jsonObj[index]["pages"] = jsonObj[index]["pageCount"]; // On remplace le nom de l'objet pageCount à pages.
 	jsonObj[index]["description"] = jsonObj[index]["longDescription"]; // On remplace le nom de l'objet pageCount à pages.
 
+
 	if(!jsonObj[index]["description"]) {
 		jsonObj[index]["description"] = "toto";
 	}
@@ -27,7 +26,7 @@ for (const i in jsonObj) {
 		jsonObj[index]["pages"] = getRndInteger(100,350)
 	}
 	if(!jsonObj[index]["thumbnail"]) {
-		jsonObj[index]["thumbnail"] = "https://via.placeholder.com/150x200"
+		jsonObj[index]["thumbnail"] = "https://via.placeholder.com/150x200.jpg"
 	}
 
 	const options = {
@@ -37,12 +36,16 @@ for (const i in jsonObj) {
 
 	download.image(options)
 		.then(({ filename }) => {
-			console.log('Saved to', filename)  // saved to /path/to/dest/image.jpg
+			console.log('Saved to', filename)  // Sauvegarder dans le dossier /images
 		})
-		.catch((err) =>
-			console.error(err)
-		)
+		.catch(function(err, filename) {
+			console.log(err);
+			// console.log(jsonObj[index]["thumbnail"], "LINK NOT WORKING")
+			// jsonObj[index]["thumbnail"] = "https://via.placeholder.com/150x200.jpg"
+			// console.log(jsonObj[index]["thumbnail"], "NEW LINK PLACEHOLDER")
+		})
 
+	// Fonction pour supprimer les lignes déclarées dans la variable "rowToDelete"
 	for (const row in rowToDelete) {
 		delete jsonObj[index][rowToDelete[`${row}`]];
 	}
