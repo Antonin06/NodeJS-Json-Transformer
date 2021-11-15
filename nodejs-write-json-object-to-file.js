@@ -40,9 +40,7 @@ for (const i in jsonObj) {
 		})
 		.catch(function(err, filename) {
 			console.log(err);
-			// console.log(jsonObj[index]["thumbnail"], "LINK NOT WORKING")
-			// jsonObj[index]["thumbnail"] = "https://via.placeholder.com/150x200.jpg"
-			// console.log(jsonObj[index]["thumbnail"], "NEW LINK PLACEHOLDER")
+
 		})
 
 	// Fonction pour supprimer les lignes déclarées dans la variable "rowToDelete"
