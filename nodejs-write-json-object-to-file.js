@@ -9,6 +9,8 @@ function getRndInteger(min, max) {
 	return Math.floor(Math.random() * (max - min)) + min;
 }
 
+;
+
 for (const i in jsonObj) {
 	const rowToDelete = ["isbn", "status", "shortDescription", "thumbnailUrl", "longDescription", "pageCount", "publishedDate", "categories" , "authors"]
 	const index = i;
